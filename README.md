@@ -6,7 +6,7 @@
 ## 2. What are some strategies to tailor your content to different audience types?
 - Tailor content: Adapt to audience type (tech, regular, intermediate).
 ## 3. How can you gauge the existing knowledge of your audience to avoid overwhelming them with jargon?
-- Gauge knowledge: Ask, observe, survey.
+- Gauge knowledge: Ask, observe, survey
 ## 4. What techniques can you use to ensure your content is accessible to those with limited technical knowledge?
 - Accessibility: Use plain language, examples, visuals, and break down complexity.
 ## 5. Why is it important to use plain language instead of technical jargon in your writing?
